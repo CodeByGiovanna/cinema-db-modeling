@@ -1,14 +1,14 @@
-# Cinema-db-modeling
+# 🎬 cinema-db-modeling
 
-Projeto de modelagem relacional e SQL usando um banco de dados de cinema.
+Relational modeling and SQL project using a cinema database.
 
-## Conteúdo
-- Criação de tabelas com restrições de integridade (NOT NULL, UNIQUE, FK, CHECK)
-- Normalização até 3FN
-- Análise de dados com Python (sets, CSV, JSON, Pandas)
-- Banco de dados: SQLite (cinema.db)
+## Content
+- Table creation with integrity constraints (NOT NULL, UNIQUE, FK, CHECK)
+- Normalization up to 3NF
+- Data analysis with Python (sets, CSV, JSON, Pandas)
+- Database: SQLite (cinema.db)
 
-## Tecnologias
+## Technologies
 - Python 3
 - SQLite3
 - Pandas
