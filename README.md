@@ -1,4 +1,4 @@
-# cinema-db-modeling
+# Cinema-db-modeling
 
 Projeto de modelagem relacional e SQL usando um banco de dados de cinema.
 
